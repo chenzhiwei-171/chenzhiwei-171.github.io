@@ -1,7 +1,7 @@
 
 ## Zhiwei Chen's Homepage
 
-![123](https://github.com/chenzhiwei-171/chenzhiwei-171.github.io/blob/main/main.jpg)
+![1](https://github.com/chenzhiwei-171/chenzhiwei-171.github.io/blob/main/main.jpg)
 <blockquote>
   <p> 天之道，损有余而补不足；人之道，损不足以奉有余 ---道德经 </p>
 </blockquote>
