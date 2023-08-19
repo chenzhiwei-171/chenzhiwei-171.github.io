@@ -8,7 +8,7 @@
 - WeChat : czw987587834
 
 <blockquote>
-<p><font size="5"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> </p>
+<font size="5"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> 
 </blockquote>
 
 
