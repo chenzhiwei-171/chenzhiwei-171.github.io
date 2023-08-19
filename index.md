@@ -77,4 +77,4 @@ merger-nova luminosity function.*]
 
 
 ## Contact Me
-You leave messeages on my social accounts or send an email to my email.
+If there are important issues, please send message to my email box. Otherwise, feel free to contact me via my personal QQ or Wechat.
