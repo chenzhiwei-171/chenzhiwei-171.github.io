@@ -1,20 +1,8 @@
 
-# Welcome to Xiao Guo's Homepage!
+# Welcome to Zhiwei's Homepage!
 
-郭潇（1995-），字培渊，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
+陈智威，于1998年11月2日出生于四川省达州市，现于中国科学院国家天文台引力波天体物理研究组攻读博士学位，研究兴趣广泛，包括但不限于引力波天体物理，高能天体物理，暂显源天体物理，宇宙学等。
 
-
-I am **Xiao GUO (郭潇)**. I obtain PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
-Here is some personal information about me:
-- E-mail: guoxiao17@mails.ucas.ac.cn, guoxiaowhu@whu.edu.cn 
-- ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
-- Homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) 
-- Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
-- Researchgate: [Xiao Guo](https://www.researchgate.net/profile/Xiao-Guo-13)
-- Zhihu(知乎): [疏雪雾里](https://www.zhihu.com/people/guoxiaonaoc) 
-- WeChat Public Account: 疏雪雾里![QR code](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/MathPhysics.png?raw=true)
-- Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
-- Sina Weibo account: 疏雪雾里 
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
