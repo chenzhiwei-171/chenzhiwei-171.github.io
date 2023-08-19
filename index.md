@@ -1,5 +1,5 @@
 
-# Welcome to Zhiwei's Homepage!
+# 天之道，损有余而补不足；人之道，损不足而加有余。
 
 **Zhiwei Chen**(陈智威) was born in Dazhou of Sichuan province, China. I am a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 
@@ -21,71 +21,38 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 ## Publications
 
-- De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399]
-
-- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7]
-
-- Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107]
+- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045]
 
 - Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040]
 
-- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045]
+- Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107]
 
+
+- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7]
+
+- De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399]
 
 
 More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
 
 ## Honors
-- Basic Subject Freshman Scholarship, Wuhan University, fall, 2013
--	Second-class Scholarship, Wuhan University, fall, 2014
--	Outstanding Student, Wuhan University, fall, 2014
--	Third prize in preliminary of Chinese Undergraduate Mathematics Contest, Nov., 2014
--	Third prize in Chinese Undergraduate Physicists’ Tournament, May, 2015 
--	**National Scholarship**, fall, 2015
--	Merit Student, Wuhan University, fall, 2015
--	**National Scholarship**, fall, 2016
--	Pexpertmaker to Merit Student, Wuhan University, fall, 2016
--	Outstanding Graduate, Wuhan University, summer, 2017
--	Excellent Student Cadre, UCAS, summer, 2018
--	Merit Student, UCAS, summer, 2019 
+
 
  
 ## Conferences & Schools
-- 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京), China;
-- 2017, Spring School for Numerical Relativity @ ITP, CAS, Beijing(北京), China (理论物理所数值相对论春季学校);
-- 2017.7, the SYSU Gravitational Wave Summer School @ Zhuhai(珠海), China;
-- 2019.6, the 6th KAGRA International Workshop @ Wuhan(武汉), China;
-- 2019.8, the Third Conference for Gravitational Wave Astrophysics @ Kunming(昆明), China;
-- 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics @ PKU, Beijing(北京), China;
-- 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
-- 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave;
-- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
-- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC) @ online. Invited talk: On the Gravitational Lensing of Gravitational Wave;
-- .....
 
-Invited talks:
-- 2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ), SWIFAR(online)
-- 2023.3.14, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/spJQmwziAvexqUUQ2AYQNw)@KIAA, PKU
-- 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)](https://github.com/guoxiaowhu/Xiao_Guo/blob/guoxiaowhu-patch-1/SciRep/SZTU.jpg)@Shenzhen Technology University (SZTU)
+
+
 
 ## Skills & Courses
-I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
 
----
+
 
 ## Hobbies 
-余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
-- Music: singing, harmonica(口琴), piano, etc.
-- [Chinese poetry](https://github.com/guoxiaowhu/chinese-poetry)
-- Running, badminton, etc.
-- Astronomy & traveling, and I like the beauty of nature
-- Aerospace: aeronautics and astronautics 
-- Photography
-- Go (围棋) and so on
+
 
 <blockquote>
   <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
-  <p> 诗者，志之所之也，在心为志，发言为诗，情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故咏歌之（《毛诗序》）</p>
 </blockquote>
   
 
