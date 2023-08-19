@@ -47,6 +47,12 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
 
+## Conferences 
+- 2021.6, Gravitational Wave Astrophysics Conference 2021 @ Hefei, China;
+- 2023.5, 中国物理学会引力与相对论天体物理分会2023年学术年会，@ Chongqing, China; **Best Student's Talk**, [Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals.]
+- 2023.8, 第一届阿勒泰时域天文金山项目研讨会，@ Altay, China; **Invited Talk**, [On the Lensed TDE and BNS
+merger-nova luminosity function.]
+
 ## Main Honors and Students work
 **Students work**: 
 - President of Students Union of NAOC, 2023.03-Now;
