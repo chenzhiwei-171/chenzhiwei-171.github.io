@@ -12,10 +12,13 @@ Email: chenzhiwei171@mails.ucas.ac.cn
 
 ## Interested Fields
 - Gravitational Wave
+  -- Gravitational Lensing
+  -- Pulsar Timing Array
 - Double Compact Objects
+  -- stellar Binary Black Holes
+  -- Binary Neutron Stars
 - Tidal Disruption Event
-- General Relativity
-- Numerical simulation
+- General Relativity and Numerical Simulations
 
 
 ## Education
@@ -58,20 +61,10 @@ More publication details can see my [ORCID website](https://orcid.org/0000-0001-
 - Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
 - Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
  
-## Conferences & Schools
 
 
 
 
-
-
-
-## Hobbies 
-
-
-<blockquote>
-  <p> 天之道，损有余而补不足；人之道，损不足而加有余（老子）</p>
-</blockquote>
   
 
 
