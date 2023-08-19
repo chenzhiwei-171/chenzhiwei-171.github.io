@@ -7,9 +7,11 @@
 - QQ   : 987587834
 - WeChat : czw987587834
 
-- Quotes: <font size="50"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> <br />
-
-
+- Quotes
+<blockquote>
+  <p> 天之道，损有余而补不足，人之道，损不足以奉有余。 （道德经）</p>
+  <p> 夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。多算胜，少算不胜，而况于无算乎！ （孙子兵法）</p>
+</blockquote>
 
 ## Interested Fields
 - Gravitational Wave
