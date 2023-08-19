@@ -1,7 +1,7 @@
 
 # 天之道，损有余而补不足；人之道，损不足而加有余。
 
-**Zhiwei Chen**(陈智威) was born in Dazhou of Sichuan province, China. I am a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 
 ## Interested Fields
 - Gravitational Wave
@@ -52,7 +52,7 @@ More publication details can see my [ORCID website](https://orcid.org/0000-0001-
 
 
 <blockquote>
-  <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
+  <p> 天之道，损有余而补不足；人之道，损不足而加有余（老子）</p>
 </blockquote>
   
 
