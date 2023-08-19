@@ -35,9 +35,21 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
 
-## Honors
+## Main Honors and Students work
+**Students work**: 
+-President of Students Union of NAOC, 2023.03-Now;
+-President of Students Union of School of Space Science and Astronomy, UCAS, 2021.09-2022.06; 
+-Class Monitor of UCAS, 2017.09-2021.06;
+-Head of Training department of ChuanHun Wushu Association, UCAS, 2018.09-2019.06;
+-Head of Table Tennis Association, UCAS, 2018.09-2020.06;
 
-
+**Honors**
+- Merit Student, University of Chinese Academy of Sciences, 2017-2021;
+- Outstanding Student Cadres, University of Chinese Academy of Sciences, 2017-2021;
+- The First Prize Scholarship, University of Chinese Academy of Sciences, 2017-2021;
+- National Scholarship, Ministry of Education of PRC, 2019;
+- Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
+- Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
  
 ## Conferences & Schools
 
@@ -56,49 +68,7 @@ More publication details can see my [ORCID website](https://orcid.org/0000-0001-
 </blockquote>
   
 
-## Popularization of Science 科普
-自媒体：
-- 国科大天文学院：
-  - 超新星中的引力波[（一）](https://mp.weixin.qq.com/s/eqoXf2i_EkzhbxffdFO9lg)[（二）](https://mp.weixin.qq.com/s/aIjLWk3Auughyb4JVpGn8A)
-  - [双中子星知多少](https://mp.weixin.qq.com/s/v0l248CcaGNPzEnmBjZkTw)
-- 中科院物理所：
-  - [除了时间简史，关于霍金，你还应该知道这些](https://mp.weixin.qq.com/s/yEJJHT_dYrHFAAgfOkxSNw)
-- 中国科学院国家天文台：
-  - [AI版哥白尼，推导日心说so easy](https://mp.weixin.qq.com/s/ljJSsdUOxPN1YoPBxEeKnQ)
-  - 聆听五音俱全的引力波宇宙[1.时空的交响乐](https://mp.weixin.qq.com/s/gH6diX0DKBpRS94A2a2neQ), [2.地基引力波探测](https://mp.weixin.qq.com/s/zeMZAd0crOVD4eFVSJstGw), [3.空间引力波探测](https://mp.weixin.qq.com/s/_gLJK6AtBStHksEGaMAsDQ), [4.脉冲星计时阵引力波探测](https://mp.weixin.qq.com/s/GL4d2mTMsBbughjHwFNhgg), [5.宇宙微波背景实验探测原初引力波](https://mp.weixin.qq.com/s/XB0ZF2RGuctBEdgXC6Ew_g) (主要负责文本撰写)
-  - [长图 宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
 
-期刊/报刊：
-- **郭潇**, (2020)，天琴：听见更多引力波的旋律. 北京日报
-- **郭潇** & 陆由俊, (2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
-- 陆由俊 & **郭潇**, (2022). 人类首次探测到中子星-黑洞并合. 科学通报, 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
-
-科普报告：
-- [四合院里中秋望月](https://mp.weixin.qq.com/s/i-6gg5m9uFde4tgXktJK0A)@美后肆时F1美会馆(2021.9.21，中秋)
-- [引力波：倾听宇宙的交响乐](https://mp.weixin.qq.com/s/iEVpdyqeZx2nZI8PCCLhvQ)@美后肆时F1美会馆(2021.10.7)
-- [中国的探月故事](https://mp.weixin.qq.com/s/fjwY-nMQJ430ZUEN9LgTDQ)@通州区图书馆（线上）(2022.8.7)，录制视频见[B站](https://www.bilibili.com/video/BV1314y1b7EF?spm_id_from=333.999.0.0&vd_source=5455efc7ab8615e4fb2921630f6cfbe5)或[知乎](https://www.zhihu.com/zvideo/1540399173920186368)
-- [中国的探月故事](https://www.sjsggwh.com/Activitys/Details/14539?code=5e9e66e6-aea9-466f-957e-8d34f38f314a)@石景山区文化中心(2022.8.13)
-- [时空的波动：引力波](https://mp.weixin.qq.com/s/7VaSBDjj5HNNcj9-YSMKug)@通州区图书馆（线上）(2022.8.21)，录制视频见[B站](https://www.bilibili.com/video/BV1eN4y1c7cE/?spm_id_from=333.999.list.card_archive.click&vd_source=5455efc7ab8615e4fb2921630f6cfbe5) 或[知乎](https://www.zhihu.com/zvideo/1547151320834048000)
-- [时空的波动：引力波](https://mp.weixin.qq.com/s/p_IG2_3WDPsJ1_bgwrSW-Q)@石景山区文化中心(2022.9.3)
-- [恒星的“全家福”](https://activity.lingxi360.com/activity/caen47pzywmr8g61lp18701vkxlq2o95?ouid=calkpryz7m38qd9vnpmg109vxe2n15wo&utm_bccid=ca4lkpryz7m38qd91lewy09vxe2n15wo)@北京儿童舒缓治疗活动中心(2023.7.8)，详见[微信公众号推文](https://mp.weixin.qq.com/s/fJdGio7qMJrEFw14bESirw)
-- 儒力教育科学星期天系列线上报告海报见[链接](https://github.com/guoxiaowhu/Xiao_Guo/tree/guoxiaowhu-patch-1/SciPop)
-- ......
-
-
-科普著作：
-- 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
-- 在南斗天文团队中参与编著绘本《和宇宙对话的中国》（电子工业出版社）
-
-研学旅行：
-- 亲子猫公司库布齐沙漠徒步观星活动(2017年10月2-4日，国庆节)
-- 亲子猫公司库布齐沙漠徒步观星活动(2018年10月2-4日，国庆节)
-- 西安高新十初腾格里沙漠观星活动(2023年7月20-24日)，详见[微信公众号推文](https://mp.weixin.qq.com/s/TC9e9JXEgPTl5ro1EgE-Eg)
-
-科普讲解与观测：
-- 中国科学院与“两弹一星”纪念馆
-- 北京天文馆
-- 北京古观象台
-- 北京郊区观星
 
 
 ## Social Experience
