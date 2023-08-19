@@ -21,6 +21,7 @@
   - Binary Neutron Stars
 - Tidal Disruption Event
 - General Relativity and Numerical Simulations
+- ...
 
 
 ## Education
