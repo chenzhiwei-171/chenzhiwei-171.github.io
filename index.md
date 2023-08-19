@@ -1,7 +1,7 @@
 
 # Welcome to Zhiwei's Homepage!
 
-陈智威，于1998年11月2日出生于四川省达州市，现于中国科学院国家天文台引力波天体物理研究组攻读博士学位，研究兴趣广泛，包括但不限于引力波与高能天体物理，星系动力学，宇宙学等。
+**Zhiwei Chen**(陈智威) was born in Dazhou of Sichuan province, China. I am a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 
 ## Interested Fields
 - Gravitational Wave
@@ -17,19 +17,23 @@
 - 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
 
 ## Teaching
-Teaching assistant of Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
+Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
 
 - De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399]
 
-- Zhiwei Chen, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7]
+- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7]
 
-- 
+- Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107]
+
+- Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040]
+
+- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045]
 
 
 
-More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760) or [link](https://github.com/guoxiaowhu/published_papers).
+More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
 
 ## Honors
 - Basic Subject Freshman Scholarship, Wuhan University, fall, 2013
