@@ -1,5 +1,8 @@
 # Zhiwei Chen's Homepage
-<p>**天之道，损有余而补不足，<br>人之道，损不足以奉有余**</p>
+<blockquote>
+<font size="3">
+<p>天之道，损有余而补不足，<br>人之道，损不足以奉有余。</p>
+</blockquote>
 
 
 ![1](https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg)
