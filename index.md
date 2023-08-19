@@ -1,42 +1,28 @@
 
 # Welcome to Zhiwei's Homepage!
 
-陈智威，于1998年11月2日出生于四川省达州市，现于中国科学院国家天文台引力波天体物理研究组攻读博士学位，研究兴趣广泛，包括但不限于引力波天体物理，高能天体物理，暂显源天体物理，宇宙学等。
+陈智威，于1998年11月2日出生于四川省达州市，现于中国科学院国家天文台引力波天体物理研究组攻读博士学位，研究兴趣广泛，包括但不限于引力波与高能天体物理，星系动力学，宇宙学等。
 
 ## Interested Fields
-- Gravitational Wave 
-  - Data analysis
-  - Pulsar timing array
-  - Gravitational lensing of gravitational wave
-  - Waveform template calculation
-  - Origins of gravitational wave sources 
-- Gravitational lensing & dark matter
-  - Nature of dark matter
-  - Mathematics of gravitational lensing
-- Compact objects
-  - Neutron star: equation of state, including quark star, strangeon star and so on
-  - Black hole
-- Numerical relativity
-- Numerical calculation for highly oscillatory integral
-- Gravitation & Cosmology
-  - Gravitational thoery
-  - Dark matter
-  - Dark energy
+- Gravitational Wave
+- Double Compact Objects
+- Tidal Disruption Event
+- General Relativity
+- Numerical simulation
 
 
 ## Education
-- 2013.9-2017.6: [Wuhan University](https://www.whu.edu.cn/), physics, bachelor;
-- 2017.9-2023.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
+- 2011.9-2017.6: [Chengdu Foreign Language School], class 2014/08, class 2017/01;
+- 2017.9-2021.6: [University of Chinese Academy of Sciences], astronomy & physics, bachelor;
+- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
 
 ## Teaching
-Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UCAS, spring, 2022
+Teaching assistant of Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
-- **Guo Xiao**, & Lu Youjun, (2020). Convergence and efficiency of different methods to compute the diffraction integral for gravitational lensing of gravitational waves. [Physical Review D, 102, 124076.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.124076) [arXiv:2012.03474](https://arxiv.org/pdf/2012.03474.pdf).
-- Lu Youjun，**Guo Xiao**, (2022). The first detection of neutron star-black hole binary mergers. Chinese Science Bulletin(科学通报), 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
-- **Guo Xiao**, & Lu Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018) [arXiv:2207.00325](https://arxiv.org/pdf/2207.00325.pdf). 
-- **Guo Xiao**, Lu Youjun, Yu Qingjuan, (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131). [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
-- Ma, Hao, Lu, Youjun, **Guo, Xiao**, Zhang, Siqi & Chu, Qingbo, (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [MNRAS, 518,6183](https://doi.org/10.1093/mnras/stac3418).
+
+- De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399]
+
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760) or [link](https://github.com/guoxiaowhu/published_papers).
 
