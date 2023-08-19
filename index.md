@@ -1,9 +1,4 @@
 # Zhiwei Chen's Homepage
-<blockquote>
-<font size="10">
-<p>天之道，损有余而补不足，人之道，损不足以奉有余。</p>
-</blockquote>
-
 
 ![1](https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg)
 
@@ -11,6 +6,10 @@
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
 - WeChat : czw987587834
+
+<blockquote>
+<p><font size="5"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> </p>
+</blockquote>
 
 
 ## Interested Fields
