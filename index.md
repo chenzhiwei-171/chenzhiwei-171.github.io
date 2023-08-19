@@ -2,6 +2,7 @@
 # 天之道，损有余而补不足；人之道，损不足而加有余。
 
 **Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
+Email: chenzhiwei171@mails.ucas.ac.cn
 
 ## Interested Fields
 - Gravitational Wave
@@ -56,7 +57,6 @@ More publication details can see my [ORCID website](https://orcid.org/0000-0001-
 
 
 
-## Skills & Courses
 
 
 
@@ -68,15 +68,6 @@ More publication details can see my [ORCID website](https://orcid.org/0000-0001-
 </blockquote>
   
 
-
-
-
-## Social Experience
-- 2014-2015，武汉大学物理学院13级物基二班班长；
-- 2016-2017，武汉大学弘毅学堂16级弘毅五班助理班主任；
-- 2017-2018，中国科学院大学天文协会学术部部长，中国科学院与"两弹一星"纪念馆讲解员；
-- 2018-2019，国家天文台研究生会学术部部长；
-- 自2019年南斗天文成立以来，始终为南斗天文老师团队里的一员。
 
 ## Contact Me
 You leave messeages on my social accounts or send an email to my email.
