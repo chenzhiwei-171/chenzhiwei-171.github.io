@@ -1,7 +1,4 @@
-
-## Zhiwei Chen's Homepage
-
-# 天之道，损有余而补不足；人之道，损不足以奉有余 ---道德经
+# 天之道，损有余而补不足；人之道，损不足以奉有余.
 
 
 ![1](https://github.com/chenzhiwei-171/chenzhiwei-171.github.io/blob/main/main.jpg)
