@@ -7,9 +7,9 @@
 - QQ   : 987587834
 - WeChat : czw987587834
 
-<blockquote>
-<font size="20"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> 
-</blockquote>
+
+<font size="20"> 天之道，损有余而补不足，人之道，损不足以奉有余。</font> <br />
+
 
 
 ## Interested Fields
