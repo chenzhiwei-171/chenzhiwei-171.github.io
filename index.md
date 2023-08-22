@@ -34,16 +34,16 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 ## Publications
 
-- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045]
+- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045](https://iopscience.iop.org/article/10.3847/1538-4357/ace045)
 
-- Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040]
+- Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040](https://academic.oup.com/mnras/article-abstract/524/2/2954/7221664?redirectedFrom=fulltext)
 
-- Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107]
+- Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107](https://academic.oup.com/mnras/article-abstract/522/2/2951/7127708?redirectedFrom=fulltext)
 
 
-- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7]
+- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7](https://iopscience.iop.org/article/10.3847/1538-4357/ac98b7)
 
-- De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399]
+- De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399](https://academic.oup.com/mnras/article-abstract/516/2/2833/6675819?redirectedFrom=fulltext)
 
 
 More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
