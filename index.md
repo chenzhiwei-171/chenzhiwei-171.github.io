@@ -2,7 +2,7 @@
 
 ![1](https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg)
 
-**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD student in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
 - WeChat : czw987587834
@@ -27,7 +27,7 @@
 ## Education
 - 2011.9-2017.6: Chengdu Foreign Language School, class 2014/08 and 2017/01;
 - 2017.9-2021.6: [University of Chinese Academy of Sciences](http://www.ucas.ac.cn), astronomy & physics, **Bachelor**;
-- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, **PHD student**, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
+- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, **PHD candidate**, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
 
 ## Teaching
 Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
