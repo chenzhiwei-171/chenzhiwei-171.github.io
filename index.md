@@ -69,6 +69,7 @@ merger-nova luminosity function.*]
 - National Scholarship, Ministry of Education of PRC, 2019;
 - Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
 - Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
+- 中国科学院芯耀杯王者荣耀邀请赛，冠军，中国科学院计算研究所，2023；
  
 
 
