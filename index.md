@@ -45,6 +45,7 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 - De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399](https://academic.oup.com/mnras/article-abstract/516/2/2833/6675819?redirectedFrom=fulltext)
 
+- Di Lu, **Zhiwei Chen**, Youjun Lu, Changshuo Yan, (2023). Progress in constraining the origin of stellar binary black holes via their spin distribution. [PROGRESS IN ASTRONOMY]
 
 More publication details can see my [ORCID website](https://orcid.org/0000-0001-7952-7945)
 
