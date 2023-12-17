@@ -9,7 +9,7 @@
 - Motto:
 <blockquote>
   <p> 天之道，损有余而补不足，人之道，损不足以奉有余。 （道德经）</p>
-  <p> 未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。多算胜，少算不胜，况于无算乎！ （孙子兵法）</p>
+  <p> 沧浪之水清兮，可以濯吾缨；沧浪之水浊兮，可以濯吾足。 （楚辞）</p>
 </blockquote>
 
 ## Interested Fields
@@ -67,10 +67,11 @@ merger-nova luminosity function.*]
 - Merit Student, University of Chinese Academy of Sciences, 2017-2021;
 - Outstanding Student Cadres, University of Chinese Academy of Sciences, 2017-2021;
 - The First Prize Scholarship, University of Chinese Academy of Sciences, 2017-2021;
-- National Scholarship, Ministry of Education of PRC, 2019;
+- **National Scholarship, Ministry of Education of PRC ，Graduate, 2019;**
 - Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
 - Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
 - 中国科学院芯耀杯王者荣耀邀请赛，冠军，中国科学院计算研究所，2023；
+- **National Scholarship, Ministry of Education of PRC, Undergraduate,2023;**
  
 
 
