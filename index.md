@@ -2,6 +2,9 @@
 
 ![1](https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg)
 
+<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg" width="210px">
+
+
 **Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - Marriage : Single
