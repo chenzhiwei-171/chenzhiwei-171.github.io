@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg" width="200px">
 
-**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. Currently, I am working on the multimessenger signal of Binary neutron star mergers, especially the Kilonova signals.
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - Marriage : Single
 - QQ   : 987587834
@@ -15,8 +15,6 @@
 
 ## Interested Fields
 - Gravitational Wave
-  - Gravitational Lensing
-  - Pulsar Timing Array
 - Double Compact Objects
   - stellar Binary Black Holes
   - Binary Neutron Stars
