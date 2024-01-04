@@ -28,7 +28,7 @@
 ## Education
 - 2011.9-2017.6: Chengdu Foreign Language School, class 2014/08 and 2017/01;
 - 2017.9-2021.6: [University of Chinese Academy of Sciences](http://www.ucas.ac.cn), astronomy & physics, **Bachelor**;
-- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, **PHD candidate**, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
+- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, **PHD candidate**, supervisor: Youjun Lu ([陆由俊](https://nao.cas.cn/nrc/zg/202204/t20220406_6419455.html)). 
 
 ## Teaching
 Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
