@@ -4,6 +4,7 @@
 
 **Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. 
 - Email: chenzhiwei171@mails.ucas.ac.cn
+- Marriage : Single
 - QQ   : 987587834
 - WeChat : czw987587834
 - Motto:
@@ -34,7 +35,7 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 ## Publications
 
-- **Zhiwei Chen**, (2023). Detectability of Strongly Gravitationally Lensed Tidal Disruption Events [The Astrophysical Journal, Accepted]
+- **Zhiwei Chen**, (2023). Detectability of Strongly Gravitationally Lensed Tidal Disruption Events [The Astrophysical Journal, accpeted for Publication](https://arxiv.org/abs/2401.00992)
 
 - **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045](https://iopscience.iop.org/article/10.3847/1538-4357/ace045)
 
@@ -74,13 +75,8 @@ merger-nova luminosity function.*]
 - Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
 - 中国科学院芯耀杯王者荣耀邀请赛，冠军，中国科学院计算研究所，2023；
 - **National Scholarship, Ministry of Education of PRC, Undergraduate,2023;**
+
  
-
-
-
-
-  
-
 
 ## Contact Me
 If there are important issues, please send message to my email box. Otherwise, feel free to contact me via my personal QQ or Wechat.
