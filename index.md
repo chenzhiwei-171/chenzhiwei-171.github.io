@@ -15,7 +15,7 @@
 ## My Precious
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/jiajia.jpg" width="200px">
 
-**Mengjia Wang** (王梦佳) will be the most beautiful and happiest girl in the world forever!!! 
+**Mengjia Wang** (王梦佳) will be the most beautiful and happiest girl in the world forever !!! 
 
 ## Interested Fields
 - Gravitational Wave
