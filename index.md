@@ -37,9 +37,9 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 ## Publications
 
-- **Zhiwei Chen**, Youjun Lu, Yunfeng Chen (2023). Detectability of Strongly Gravitationally Lensed Tidal Disruption Events [The Astrophysical Journal, accpeted for Publication](https://arxiv.org/abs/2401.00992)
+- **Zhiwei Chen**, Youjun Lu, Yunfeng Chen (2023). Detectability of Strongly Gravitationally Lensed Tidal Disruption Events. [The Astrophysical Journal, DOI 10.3847/1538-4357/ad19d3] (https://iopscience.iop.org/article/10.3847/1538-4357/ad19d3).
 
-- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, 10.3847/1538-4357/ace045](https://iopscience.iop.org/article/10.3847/1538-4357/ace045)
+- **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, DOI 10.3847/1538-4357/ace045](https://iopscience.iop.org/article/10.3847/1538-4357/ace045)
 
 - Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040](https://academic.oup.com/mnras/article-abstract/524/2/2954/7221664?redirectedFrom=fulltext)
 
