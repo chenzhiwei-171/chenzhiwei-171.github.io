@@ -1,6 +1,6 @@
 # Zhiwei Chen's Homepage
 
-<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="200px">
+<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="400px">
 
 **Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. Currently, I am working on the multimessenger signal of Binary neutron star mergers, especially the Kilonova signals.
 - Email: chenzhiwei171@mails.ucas.ac.cn
@@ -13,7 +13,7 @@
 </blockquote>
 
 ## My Precious
-<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/jiajia.jpg" width="200px">
+<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/jiajia.jpg" width="100px">
 
 **Mengjia Wang** (王梦佳) will be the most beautiful and happiest girl in the world forever !!! 
 
