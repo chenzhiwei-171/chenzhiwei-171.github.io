@@ -72,6 +72,7 @@ merger-nova luminosity function.*]
 - Head of Table Tennis Association, UCAS, 2018.09-2020.06;
 
 **Honors**
+- **Zhuliyuehua Scholarship, University of Chinese Academy of Sciences, 2024;**
 - **National Scholarship, Ministry of Education of PRC, Undergraduate,2023;**
 - Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
 -  Outstanding Graduates, Beijing Municipal Commission of Education, 2021;
