@@ -1,6 +1,6 @@
 # Zhiwei Chen's Homepage
 
-<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/main.jpg" width="200px">
+<img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="200px">
 
 **Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. Currently, I am working on the multimessenger signal of Binary neutron star mergers, especially the Kilonova signals.
 - Email: chenzhiwei171@mails.ucas.ac.cn
@@ -36,6 +36,9 @@
 Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
+-  **Zhiwei Chen**, Yushan Xie, Youjun Lu, Huanyuan Shan, Nan Li, Yuchao Luo, Xiao Guo (2024). Detection Rate of Galaxy Cluster-lensed Stellar Binary Black Hole Mergers by the Third-generation Gravitational-wave Detectors. [The Astrophysical Journal, DOI: 10.3847/1538-4357/ad8b44](https://iopscience.iop.org/article/10.3847/1538-4357/ad8b44)
+
+- **Zhiwei Chen**, Youjun Lu, Jie Wang, Zhen Jiang, Qingbo Chu, Xianghao Ma (2024). On the Cosmic Variance of the Merger Rate Density of Binary Neutron Stars. [The Astrophysical Journal, DOI: 10.3847/1538-4357/ad6de0](https://iopscience.iop.org/article/10.3847/1538-4357/ad6de0)
 
 - **Zhiwei Chen**, Youjun Lu, Yunfeng Chen (2023). Detectability of Strongly Gravitationally Lensed Tidal Disruption Events. [The Astrophysical Journal, DOI 10.3847/1538-4357/ad19d3](https://iopscience.iop.org/article/10.3847/1538-4357/ad19d3)
 
