@@ -65,7 +65,7 @@ merger-nova luminosity function.*]
 
 ## Main Honors and Students work
 **Students work**: 
-- President of Students Union of NAOC, 2023.03-Now;
+- President of Students Union of NAOC, 2023.03-2024.11;
 - President of Students Union of School of Space Science and Astronomy, UCAS, 2021.09-2022.06; 
 - Class Monitor of UCAS, 2017.09-2021.06;
 - Head of Training department of ChuanHun Wushu Association, UCAS, 2018.09-2019.06;
