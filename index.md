@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="400px">
 
-**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a PHD candidate in the Group of Gravitational Wave Astrophysics of National Astronomical Observatories of China, Chinese academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in Gravitational Wave and High Energy physics. Currently, I am working on the multimessenger signal of Binary neutron star mergers, especially the Kilonova signals.
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a Postdoc in the Group of Three-dimensional structure of Milky Way in National Astronomical Observatories, Chinese Academy of Sciences. I am interested in all fields of theoretical astrophysics, especially in multimessenger astronomy. 
+
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
 - WeChat : czw987587834
@@ -23,19 +24,22 @@
   - stellar Binary Black Holes
   - Binary Neutron Stars
 - Tidal Disruption Event
-- General Relativity and Numerical Simulations
+- General Relativity
 - ...
 
 
 ## Education
 - 2011.9-2017.6: Chengdu Foreign Language School, class 2014/08 and 2017/01;
 - 2017.9-2021.6: [University of Chinese Academy of Sciences](http://www.ucas.ac.cn), Astronomy & Physics, **Bachelor**;
-- 2021.9-now   : [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **PHD candidate**, supervisor: Youjun Lu ([陆由俊](https://nao.cas.cn/nrc/zg/202204/t20220406_6419455.html)). 
+- 2021.9-2025.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **PhD**, supervisor: Prof.Youjun Lu ([陆由俊](https://nao.cas.cn/nrc/zg/202204/t20220406_6419455.html)).
+- 2025.6-now:    [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **Postdoc**, supervisor: Prof.Jifeng Liu ([刘继峰](https://nao.cas.cn/nrc/zg/202204/t20220406_6985990.html)).
 
 ## Teaching
-Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
+Teaching assistant of Prof.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
+-  **Zhiwei Chen**, Jihui Zhang, Youjun Lu, Jifeng Liu, Changwen Zeng (2025). Constraining Common Envelope Evolution in Binary Neutron Star Formation with Combined Galactic and Gravitational-Wave Observations. [Accepted by Monthly Notices of the Royal Astronomical Society](https://arxiv.org/abs/2508.14397)
+
 -  **Zhiwei Chen**, Yushan Xie, Youjun Lu, Huanyuan Shan, Nan Li, Yuchao Luo, Xiao Guo (2024). Detection Rate of Galaxy Cluster-lensed Stellar Binary Black Hole Mergers by the Third-generation Gravitational-wave Detectors. [The Astrophysical Journal, DOI: 10.3847/1538-4357/ad8b44](https://iopscience.iop.org/article/10.3847/1538-4357/ad8b44)
 
 - **Zhiwei Chen**, Youjun Lu, Jie Wang, Zhen Jiang, Qingbo Chu, Xianghao Ma (2024). On the Cosmic Variance of the Merger Rate Density of Binary Neutron Stars. [The Astrophysical Journal, DOI: 10.3847/1538-4357/ad6de0](https://iopscience.iop.org/article/10.3847/1538-4357/ad6de0)
@@ -44,12 +48,12 @@ Teaching assistant of Pf.Jifeng Liu et al's _Advanced astronomy_ course in UCAS,
 
 - **Zhiwei Chen**, (2023). Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions. [The Astrophysical Journal, DOI 10.3847/1538-4357/ace045](https://iopscience.iop.org/article/10.3847/1538-4357/ace045)
 
+- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7](https://iopscience.iop.org/article/10.3847/1538-4357/ac98b7)
+
 - Hao Ma, Youjun Lu, **Zhiwei Chen**, Yunfeng Chen, (2023). Diffractive lensing of nano-Hertz gravitational waves emitted from supermassive binary black holes by intervening galaxies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad2040](https://academic.oup.com/mnras/article-abstract/524/2/2954/7221664?redirectedFrom=fulltext)
 
 - Yuetong Zhao, Youjun Lu, Changshuo Yan, **Zhiwei Chen**, Wei-Tou Ni, (2023). Multiband gravitational wave observations of stellar binary black holes at the low to middle and high frequencies. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stad1107](https://academic.oup.com/mnras/article-abstract/522/2/2951/7127708?redirectedFrom=fulltext)
 
-
-- **Zhiwei Chen**, Youjun Lu, Yuetong Zhao, (2022). Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational Wave Signals. [The Astrophysical Journal, DOI 10.3847/1538-4357/ac98b7](https://iopscience.iop.org/article/10.3847/1538-4357/ac98b7)
 
 - De-Fu Bu, Erlin Qiao, Xiao-Hong Yang, Jifeng Liu, **Zhiwei Chen**, Yongxin Wu, (2022). Radiative hydrodynamical simulations of super-Eddington accretion flow in tidal disruption event: the origin of optical/UV emission. [Monthly Notices of the Royal Astronomical Society, DOI: 10.1093/mnras/stac2399](https://academic.oup.com/mnras/article-abstract/516/2/2833/6675819?redirectedFrom=fulltext)
 
@@ -72,6 +76,7 @@ merger-nova luminosity function.*]
 - Head of Table Tennis Association, UCAS, 2018.09-2020.06;
 
 **Honors**
+-  Outstanding Graduates, Beijing Municipal Commission of Education, 2025;
 - **Zhuliyuehua Scholarship, University of Chinese Academy of Sciences, 2024;**
 - **National Scholarship, Ministry of Education of PRC, Undergraduate,2023;**
 - Excellent League Member, Committee of Communist Youth Leagure of CAS, 2022;
