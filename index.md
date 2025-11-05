@@ -38,6 +38,10 @@
 Teaching assistant of Prof.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
+-  **Zhiwei Chen**, Qingjuan Yu, Youjun Lu, Xiao Guo (2025). Enhanced Localization of Dark Lensed Gravitational Wave Events Enables Host Galaxy Identification and Precise Cosmological Inference [Accepted by The Astrophysical Journal Letter](https://arxiv.org/abs/2510.12470)
+
+-  **Zhiwei Chen**, Youjun Lu, Hao Ma, Qingbo Chu (2025). Luminosity Functions and Detectability of Binary Neutron Star Merger-nova Signals with Various Merger Remnants. [Accepted by Monthly Notices of the Royal Astronomical Society](https://arxiv.org/abs/2510.23115)
+
 -  **Zhiwei Chen**, Jihui Zhang, Youjun Lu, Jifeng Liu, Changwen Zeng (2025). Constraining Common Envelope Evolution in Binary Neutron Star Formation with Combined Galactic and Gravitational-Wave Observations. [Accepted by Monthly Notices of the Royal Astronomical Society](https://arxiv.org/abs/2508.14397)
 
 -  **Zhiwei Chen**, Yushan Xie, Youjun Lu, Huanyuan Shan, Nan Li, Yuchao Luo, Xiao Guo (2024). Detection Rate of Galaxy Cluster-lensed Stellar Binary Black Hole Mergers by the Third-generation Gravitational-wave Detectors. [The Astrophysical Journal, DOI: 10.3847/1538-4357/ad8b44](https://iopscience.iop.org/article/10.3847/1538-4357/ad8b44)
