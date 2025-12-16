@@ -35,7 +35,9 @@
 - 2025.6-now:    [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **Postdoc**, supervisor: Prof.Jifeng Liu ([刘继峰](https://nao.cas.cn/nrc/zg/202204/t20220406_6985990.html)).
 
 ## Teaching
-Teaching assistant of Prof.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
+
+- Teaching assistant of Prof.Youjun Lu et al's _Introduction to Modern Astrophysics_ course in UCAS, spring, 2025
+- Teaching assistant of Prof.Jifeng Liu et al's _Advanced astronomy_ course in UCAS, fall, 2021
 
 ## Publications
 -  **Zhiwei Chen**, Qingjuan Yu, Youjun Lu, Xiao Guo (2025). Enhanced Localization of Dark Lensed Gravitational Wave Events Enables Host Galaxy Identification and Precise Cosmological Inference [Accepted by The Astrophysical Journal Letter](https://arxiv.org/abs/2510.12470)
