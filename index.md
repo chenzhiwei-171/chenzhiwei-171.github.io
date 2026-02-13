@@ -12,7 +12,8 @@ Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional S
 - Motto:
 <blockquote>
   <p> 天之道，损有余而补不足，人之道，损不足以奉有余。 （道德经）</p>
-  <p> 沧浪之水清兮，可以濯吾缨；沧浪之水浊兮，可以濯吾足。 （楚辞）</p>
+  The Way of Heaven reduces the surplus to replenish the lacking.The Way of Man takes from the destitute to serve the abundant.
+  
 </blockquote>
 
 ## My Precious
