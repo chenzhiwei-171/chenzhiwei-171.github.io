@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="400px">
 
-**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a visiting postdoc in the Group of Relativistic Astrophysics, Institute for Theoretical Physics at Goethe University Frankfurt, Germany. Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional Structure of Milky Way, National Astronomical Observatories, China. I am interested in all fields of theoretical astrophysics, especially in multimessenger astronomy. 
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a visiting postdoc in the Group of Relativistic Astrophysics, Institute for Theoretical Physics at Goethe University Frankfurt, Germany.
+
+Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional Structure of Milky Way, National Astronomical Observatories, China. I am interested in all fields of theoretical astrophysics, especially in multimessenger astronomy. 
 
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
