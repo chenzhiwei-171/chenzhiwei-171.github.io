@@ -12,7 +12,7 @@ Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional S
 - Motto:
 <blockquote>
   <p> 天之道，损有余而补不足，人之道，损不足以奉有余。 （道德经）</p>
-  <p> The Way of Heaven reduces the surplus to replenish the lacking.
+  <p> The Way of Heaven reduces the surplus to replenish the lacking.</p>
   <p> The Way of Man takes from the destitute to serve the abundant.  (Tao Te Ching) </p>
   
 </blockquote>
