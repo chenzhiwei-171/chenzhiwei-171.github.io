@@ -9,10 +9,6 @@ Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional S
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
 - WeChat : czw987587834
-- Motto:
-<blockquote>
-  <p> 天之道，损有余而补不足，人之道，损不足以奉有余。 （道德经）</p>
-</blockquote>
 
 ## My Precious
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/jiajia.jpg" width="100px">
