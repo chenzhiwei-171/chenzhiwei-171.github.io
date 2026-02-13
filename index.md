@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/chenzhiwei-171/chenzhiwei-171.github.io/main/4adab323d8db36d960ddc45fa047dd0.jpg" width="400px">
 
-**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a visiting postdoc in the Group of Relativistic Astrophysics, Institute for Theoretical Physics at Goethe University Frankfurt, Germany. Meanwhile, I am also a postdoc in the Group of Three Dimensional Structure of Milky Way, National Astronomical Observatories, China. I am interested in all fields of theoretical astrophysics, especially in multimessenger astronomy. 
+**Zhiwei Chen** (陈智威) was born in Dazhou of Sichuan province, China. I am now a visiting postdoc in the Group of Relativistic Astrophysics, Institute for Theoretical Physics at Goethe University Frankfurt, Germany. Meanwhile, I also hold the  postdoc position in the Group of Three Dimensional Structure of Milky Way, National Astronomical Observatories, China. I am interested in all fields of theoretical astrophysics, especially in multimessenger astronomy. 
 
 - Email: chenzhiwei171@mails.ucas.ac.cn
 - QQ   : 987587834
@@ -33,7 +33,7 @@
 - 2017.9-2021.6: [University of Chinese Academy of Sciences](http://www.ucas.ac.cn), Astronomy & Physics, **Bachelor**;
 - 2021.9-2025.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **PhD**, supervisor: Prof.Youjun Lu ([陆由俊](https://nao.cas.cn/nrc/zg/202204/t20220406_6419455.html)).
 - 2025.6-now:    [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), Astrophysics, **Postdoc**, supervisor: Prof.Jifeng Liu ([刘继峰](https://nao.cas.cn/nrc/zg/202204/t20220406_6985990.html)).
-- 2026.2-now: Institute for Theoretical Physics, Goethe University Frankfurt, **Visiting Postdoc **, collaborating supervisor: Prof.Luciano Rezzolla
+- 2026.2-now: Institute for Theoretical Physics, Goethe University Frankfurt, **Visiting Postdoc**, supervisor: Prof.Luciano Rezzolla
 
 ## Teaching
 
