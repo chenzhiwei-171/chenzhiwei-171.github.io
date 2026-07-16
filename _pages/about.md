@@ -31,3 +31,4 @@ I am currently a visiting postdoctoral researcher at the Institute for Theoretic
 My research focuses on relativistic astrophysics and multi-messenger astronomy, including binary neutron-star mergers, gravitational waves,
 compact-object populations, short gamma-ray bursts, and electromagnetic counterparts of compact-binary mergers.
 
+I have published 11 first author papers and my wechat number is czw987587834. Please feel free to contact me. 
