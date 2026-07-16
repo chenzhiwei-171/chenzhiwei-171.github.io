@@ -8,6 +8,4 @@ related_posts: false
 
 I became a postdoc at Group of Three-dimensional Structure of Milkway in NAOC, supervised by Prof. Jifeng Liu. 
 
----
-
 
