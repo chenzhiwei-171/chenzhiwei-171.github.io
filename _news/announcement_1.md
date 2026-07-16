@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my PhD in GW astrophysics from the National Astronomical Observatories, Chinese Academy of Sciences.
+I received my PhD in GW astrophysics supervised by Prof. Youjun Lu from the National Astronomical Observatories, Chinese Academy of Sciences.
