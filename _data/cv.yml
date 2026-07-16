@@ -59,44 +59,39 @@ cv:
           - First Prize Scholarship
 
     Teaching:
-      - company: University of Chinese Academy of Sciences
-        position: Teaching Assistant, Introduction to Modern Astrophysics
-        location: Beijing, China
-        start_date: "2025-02"
-        end_date: "2025-06"
-        summary: >
-          Teaching assistant for Introduction to Modern Astrophysics,
-          coordinated by Prof. Youjun Lu and collaborators.
+      - label: Introduction to Modern Astrophysics
+        details: >
+          Teaching Assistant, University of Chinese Academy of Sciences,
+          Spring 2025. Course coordinated by Prof. Youjun Lu and collaborators.
 
-      - company: University of Chinese Academy of Sciences
-        position: Teaching Assistant, Advanced Astronomy
-        location: Beijing, China
-        start_date: "2021-09"
-        end_date: "2022-01"
-        summary: >
-          Teaching assistant for Advanced Astronomy, coordinated by
-          Prof. Jifeng Liu and collaborators.
+      - label: Advanced Astronomy
+        details: >
+          Teaching Assistant, University of Chinese Academy of Sciences,
+          Fall 2021. Course coordinated by Prof. Jifeng Liu and collaborators.
 
     Research Interests:
-      - name: Gravitational-Wave Astrophysics
-        summary: >
-          Gravitational waves, multi-messenger astronomy, compact binary
-          mergers, and gravitational-wave source populations.
+      - bullet: Gravitational-wave astrophysics and multi-messenger astronomy
+      - bullet: Binary neutron-star mergers and remnant stability
+      - bullet: Numerical relativity and relativistic stellar equilibria
+      - bullet: Strong gravitational lensing of gravitational waves
+      - bullet: Compact-binary populations and merger-rate studies
+      - bullet: Short gamma-ray bursts, extended emission, and merger-novae
+      - bullet: Tidal disruption events
 
-      - name: Binary Neutron-Star Mergers
-        summary: >
-          Neutron-star merger remnants, differential rotation, remnant
-          stability, and numerical relativity.
+    Invited and Contributed Talks:
+      - label: The First Altay Time-Domain Astronomy Workshop
+        details: >
+          Invited Talk, Altay, China, August 2023.
+          “On the Lensed TDE and BNS Merger-Nova Luminosity Function.”
 
-      - name: Gravitational Lensing
-        summary: >
-          Strongly lensed gravitational waves, host-galaxy identification,
-          and cosmological inference.
+      - label: Annual Meeting of the Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society
+        details: >
+          Best Student Talk, Chongqing, China, May 2023.
+          “Constraining the Origin of Stellar Binary Black Hole Mergers by
+          Detections of Their Lensed Host Galaxies and Gravitational-Wave Signals.”
 
-      - name: High-Energy Transients
-        summary: >
-          Short gamma-ray bursts, merger-novae, extended emission,
-          and tidal disruption events.
+      - label: Gravitational Wave Astrophysics Conference 2021
+        details: Hefei, China, June 2021.
 
     Awards:
       - name: Outstanding Graduate of Beijing
