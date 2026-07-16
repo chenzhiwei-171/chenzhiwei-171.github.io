@@ -202,28 +202,7 @@ cv:
         start_date: 2018-09
         end_date: 2020-06
 
-    Skills:
-      - name: Astrophysical Modeling
-        level: Advanced
-        icon: fa-solid fa-chart-line
-        keywords: >
-          Population synthesis, semi-analytical modeling, Bayesian inference,
-          gravitational-wave event rates
-
-      - name: Numerical Relativity
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: >
-          Binary neutron-star mergers, relativistic equilibrium models,
-          high-performance computing
-
-      - name: Scientific Computing
-        level: Advanced
-        icon: fa-solid fa-laptop-code
-        keywords: >
-          Python, Fortran, Linux, Git, HPC, numerical analysis,
-          scientific visualization
-
+    
     Languages:
       - name: Chinese
         summary: Native speaker
