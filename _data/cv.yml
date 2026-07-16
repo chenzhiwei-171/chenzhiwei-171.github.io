@@ -1,189 +1,339 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Zhiwei Chen
+  label: Postdoctoral Researcher in Relativistic Astrophysics
+  email: zchen@itp.uni-frankfurt.de
+  location: Frankfurt am Main, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Postdoctoral researcher working on relativistic astrophysics and
+    gravitational-wave multi-messenger astronomy. My research focuses on
+    binary neutron-star mergers, gravitational lensing of gravitational waves,
+    compact-binary populations, short gamma-ray bursts, and electromagnetic
+    counterparts of compact-object mergers.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: chenzhiwei-171
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Frankfurt am Main
+    region: Hesse
+    countryCode: DE
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Goethe University Frankfurt
+        position: Visiting Postdoctoral Researcher
+        location: Frankfurt am Main, Germany
+        start_date: 2026-02
+        end_date: Present
+        summary: >
+          Visiting postdoctoral researcher at the Institute for Theoretical
+          Physics, supervised by Prof. Luciano Rezzolla.
         highlights:
-          - Relativity
-          - Description 2.
+          - Relativistic astrophysics
+          - Binary neutron-star merger remnants
+          - Numerical relativity
+          - Stability and collapse of differentially rotating neutron stars
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: National Astronomical Observatories, Chinese Academy of Sciences
+        position: Postdoctoral Researcher
+        location: Beijing, China
+        start_date: 2025-06
+        end_date: Present
+        summary: >
+          Postdoctoral researcher working with Prof. Jifeng Liu and
+          Prof. Youjun Lu.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Gravitational-wave astrophysics
+          - Compact binary populations
+          - Multi-messenger astronomy
+          - Electromagnetic counterparts of compact-object mergers
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Education:
+      - institution: National Astronomical Observatories, Chinese Academy of Sciences
+        location: Beijing, China
+        url: https://www.nao.cas.cn/
+        area: Astrophysics
+        studyType: PhD
+        start_date: 2021-09
+        end_date: 2025-06
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Supervisor: Prof. Youjun Lu
+          - Research on gravitational-wave astrophysics and strong gravitational lensing
+          - Outstanding Graduate of Beijing, 2025
+          - Zhuliyuehua Scholarship, 2024
+
+      - institution: University of Chinese Academy of Sciences
+        location: Beijing, China
+        url: https://www.ucas.ac.cn/
+        area: Astronomy and Physics
+        studyType: Bachelor
+        start_date: 2017-09
+        end_date: 2021-06
+        highlights:
+          - Outstanding Graduate of Beijing, 2021
+          - National Scholarship
+          - First Prize Scholarship
+
+    Teaching:
+      - company: University of Chinese Academy of Sciences
+        position: Teaching Assistant, Introduction to Modern Astrophysics
+        location: Beijing, China
+        start_date: 2025-02
+        end_date: 2025-06
+        summary: >
+          Teaching assistant for the undergraduate and graduate course
+          Introduction to Modern Astrophysics, coordinated by Prof. Youjun Lu
+          and collaborators.
+
+      - company: University of Chinese Academy of Sciences
+        position: Teaching Assistant, Advanced Astronomy
+        location: Beijing, China
+        start_date: 2021-09
+        end_date: 2022-01
+        summary: >
+          Teaching assistant for Advanced Astronomy, coordinated by
+          Prof. Jifeng Liu and collaborators.
+
+    Research Interests:
+      - name: Gravitational-Wave Astrophysics
+        icon: fa-solid fa-wave-square
+        keywords: >
+          Gravitational waves, multi-messenger astronomy, compact binary mergers,
+          gravitational-wave source populations
+
+      - name: Binary Neutron-Star Mergers
+        icon: fa-solid fa-star
+        keywords: >
+          Neutron-star merger remnants, differential rotation, remnant stability,
+          numerical relativity, electromagnetic counterparts
+
+      - name: Gravitational Lensing
+        icon: fa-solid fa-circle-nodes
+        keywords: >
+          Strongly lensed gravitational waves, host-galaxy identification,
+          cosmological inference, cluster lensing
+
+      - name: High-Energy Transients
+        icon: fa-solid fa-bolt
+        keywords: >
+          Short gamma-ray bursts, extended emission, merger-novae,
+          tidal disruption events
+
+    Selected Publications:
+      - title: Detectability of Nearby Binary Neutron Stars with Future Sub-mHz Gravitational Wave Missions
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+          - Yuchao Luo
+          - Jihui Zhang
+          - Xiao Guo
+          - Jifeng Liu
+          - Wei-Tou Ni
+        publisher: Physical Review D
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2603.16386
+        summary: >
+          Investigation of the detectability of nearby binary neutron stars
+          with future space-based sub-mHz gravitational-wave missions.
+
+      - title: "Gravitational Lensing of Gravitational Waves from Astrophysical Sources: Theory, Detection, and Applications"
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+        publisher: Research in Astronomy and Astrophysics
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2605.06321
+        summary: >
+          Invited review of the theory, detection prospects, and astrophysical
+          applications of gravitationally lensed gravitational waves.
+
+      - title: Enhanced Localization of Dark Lensed Gravitational-Wave Events Enables Host Galaxy Identification and Precise Cosmological Inference
+        authors:
+          - Zhiwei Chen
+          - Qingjuan Yu
+          - Youjun Lu
+          - Xiao Guo
+        publisher: The Astrophysical Journal Letters
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2510.12470
+
+      - title: Luminosity Functions and Detectability of Binary Neutron Star Merger-Nova Signals with Various Merger Remnants
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+          - Hao Ma
+          - Qingbo Chu
+        publisher: Monthly Notices of the Royal Astronomical Society
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2510.23115
+
+      - title: Constraining Common Envelope Evolution in Binary Neutron Star Formation with Combined Galactic and Gravitational-Wave Observations
+        authors:
+          - Zhiwei Chen
+          - Jihui Zhang
+          - Youjun Lu
+          - Jifeng Liu
+          - Changwen Zeng
+        publisher: Monthly Notices of the Royal Astronomical Society Letters
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2508.14397
+
+      - title: Detection Rate of Galaxy Cluster-Lensed Stellar Binary Black Hole Mergers by Third-Generation Gravitational-Wave Detectors
+        authors:
+          - Zhiwei Chen
+          - Yushan Xie
+          - Youjun Lu
+          - Huanyuan Shan
+          - Nan Li
+          - Yuchao Luo
+          - Xiao Guo
+        publisher: The Astrophysical Journal
+        releaseDate: 2024
+        url: https://doi.org/10.3847/1538-4357/ad8b44
+
+      - title: On the Cosmic Variance of the Merger Rate Density of Binary Neutron Stars
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+          - Jie Wang
+          - Zhen Jiang
+          - Qingbo Chu
+          - Xianghao Ma
+        publisher: The Astrophysical Journal
+        releaseDate: 2024
+        url: https://doi.org/10.3847/1538-4357/ad6de0
+
+      - title: Detectability of Strongly Gravitationally Lensed Tidal Disruption Events
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+          - Yunfeng Chen
+        publisher: The Astrophysical Journal
+        releaseDate: 2024
+        url: https://doi.org/10.3847/1538-4357/ad19d3
+
+      - title: Event Rate of Strongly Lensed Gravitational Waves of Stellar Binary Black Hole Mergers Produced by Dynamical Interactions
+        authors:
+          - Zhiwei Chen
+        publisher: The Astrophysical Journal
+        releaseDate: 2023
+        url: https://doi.org/10.3847/1538-4357/ace045
+
+      - title: Constraining the Origin of Stellar Binary Black Hole Mergers by Detections of Their Lensed Host Galaxies and Gravitational-Wave Signals
+        authors:
+          - Zhiwei Chen
+          - Youjun Lu
+          - Yuetong Zhao
+        publisher: The Astrophysical Journal
+        releaseDate: 2022
+        url: https://doi.org/10.3847/1538-4357/ac98b7
+
+    Invited and Contributed Talks:
+      - name: The First Altay Time-Domain Astronomy Workshop
+        start_date: 2023-08
+        location: Altay, China
+        summary: >
+          Invited talk: On the Lensed TDE and BNS Merger-Nova Luminosity Function.
+
+      - name: Annual Meeting of the Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society
+        start_date: 2023-05
+        location: Chongqing, China
+        summary: >
+          Best Student Talk: Constraining the Origin of Stellar Binary Black
+          Hole Mergers by Detections of Their Lensed Host Galaxies and
+          Gravitational-Wave Signals.
+
+      - name: Gravitational Wave Astrophysics Conference 2021
+        start_date: 2021-06
+        location: Hefei, China
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Outstanding Graduate of Beijing
+        date: 2025
+        awarder: Beijing Municipal Commission of Education
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Zhuliyuehua Scholarship
+        date: 2024
+        awarder: University of Chinese Academy of Sciences
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: National Scholarship
+        date: 2023
+        awarder: Ministry of Education of the People's Republic of China
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Excellent Communist Youth League Member
+        date: 2022
+        awarder: Committee of the Communist Youth League, Chinese Academy of Sciences
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Outstanding Graduate of Beijing
+        date: 2021
+        awarder: Beijing Municipal Commission of Education
+
+      - title: National Scholarship
+        date: 2019
+        awarder: Ministry of Education of the People's Republic of China
+
+      - title: First Prize Scholarship
+        date: 2017–2021
+        awarder: University of Chinese Academy of Sciences
+
+    Academic and Student Service:
+      - company: National Astronomical Observatories, Chinese Academy of Sciences
+        position: President, Students' Union
+        location: Beijing, China
+        start_date: 2023-03
+        end_date: 2024-11
+
+      - company: School of Astronomy and Space Science, University of Chinese Academy of Sciences
+        position: President, Students' Union
+        location: Beijing, China
+        start_date: 2021-09
+        end_date: 2022-06
+
+      - company: University of Chinese Academy of Sciences
+        position: Class Representative
+        location: Beijing, China
+        start_date: 2017-09
+        end_date: 2021-06
+
+      - company: Chuanhun Wushu Association, University of Chinese Academy of Sciences
+        position: Head of Training
+        location: Beijing, China
+        start_date: 2018-09
+        end_date: 2019-06
+
+      - company: Table Tennis Association, University of Chinese Academy of Sciences
+        position: Head
+        location: Beijing, China
+        start_date: 2018-09
+        end_date: 2020-06
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Astrophysical Modeling
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: >
+          Population synthesis, semi-analytical modeling, Bayesian inference,
+          gravitational-wave event rates
+
+      - name: Numerical Relativity
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: >
+          Binary neutron-star mergers, relativistic equilibrium models,
+          high-performance computing
+
+      - name: Scientific Computing
+        level: Advanced
+        icon: fa-solid fa-laptop-code
+        keywords: >
+          Python, Fortran, Linux, Git, HPC, numerical analysis,
+          scientific visualization
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Chinese
+        summary: Native speaker
 
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: Professional working proficiency
