@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. National Astronomical Observatories: Beijing, Beijing, CN
-subtitle: <a href='#'>Affiliations</a>. Goethe University Frankfurt: Frankfurt am Main, Hesse, DE
+subtitle: <a href='#'>Affiliations</a> National Astronomical Observatories: Beijing, Beijing, CN
+subtitle: <a href='#'>Affiliations</a> Goethe University Frankfurt: Frankfurt am Main, Hesse, DE
 
 profile:
   align: right
