@@ -1,4 +1,4 @@
-cv: 
+cv:  
   name: Zhiwei Chen
   email: zchen@itp.uni-frankfurt.de
   location: Frankfurt am Main, Germany
@@ -11,7 +11,7 @@ cv:
     Experience:
       - company: Goethe University Frankfurt
         position: Visiting Postdoctoral Researcher
-        location: Frankfurt am Main, Germany
+        location: Frankfurt, Germany
         start_date: "2026-02"
         end_date: "present"
         summary: >
