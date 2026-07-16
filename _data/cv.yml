@@ -118,9 +118,4 @@ cv:
         date: "2019"
         summary: Ministry of Education of the People's Republic of China
 
-    Languages:
-      - label: Chinese
-        details: Native speaker
 
-      - label: English
-        details: Professional working proficiency
