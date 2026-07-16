@@ -1,32 +1,19 @@
 cv:
   name: Zhiwei Chen
-  label: Postdoctoral Researcher in Relativistic Astrophysics
   email: zchen@itp.uni-frankfurt.de
   location: Frankfurt am Main, Germany
-  image: ""
-  summary: >
-    Postdoctoral researcher working on relativistic astrophysics and
-    gravitational-wave multi-messenger astronomy. My research focuses on
-    binary neutron-star mergers, gravitational lensing of gravitational waves,
-    compact-binary populations, short gamma-ray bursts, and electromagnetic
-    counterparts of compact-object mergers.
 
   social_networks:
     - network: GitHub
       username: chenzhiwei-171
-
-  address:
-    city: Frankfurt am Main
-    region: Hesse
-    countryCode: DE
 
   sections:
     Experience:
       - company: Goethe University Frankfurt
         position: Visiting Postdoctoral Researcher
         location: Frankfurt am Main, Germany
-        start_date: 2026-02
-        end_date: Present
+        start_date: "2026-02"
+        end_date: "present"
         summary: >
           Visiting postdoctoral researcher at the Institute for Theoretical
           Physics, supervised by Prof. Luciano Rezzolla.
@@ -34,13 +21,12 @@ cv:
           - Relativistic astrophysics
           - Binary neutron-star merger remnants
           - Numerical relativity
-          - Stability and collapse of differentially rotating neutron stars
 
       - company: National Astronomical Observatories, Chinese Academy of Sciences
         position: Postdoctoral Researcher
         location: Beijing, China
-        start_date: 2025-06
-        end_date: Present
+        start_date: "2025-06"
+        end_date: "present"
         summary: >
           Postdoctoral researcher working with Prof. Jifeng Liu and
           Prof. Youjun Lu.
@@ -48,29 +34,25 @@ cv:
           - Gravitational-wave astrophysics
           - Compact binary populations
           - Multi-messenger astronomy
-          - Electromagnetic counterparts of compact-object mergers
 
     Education:
       - institution: National Astronomical Observatories, Chinese Academy of Sciences
         location: Beijing, China
-        url: https://www.nao.cas.cn/
         area: Astrophysics
-        studyType: PhD
-        start_date: 2021-09
-        end_date: 2025-06
+        degree: PhD
+        start_date: "2021-09"
+        end_date: "2025-06"
         highlights:
-          - Supervisor: Prof. Youjun Lu
-          - Research on gravitational-wave astrophysics and strong gravitational lensing
+          - "Supervisor: Prof. Youjun Lu"
           - Outstanding Graduate of Beijing, 2025
           - Zhuliyuehua Scholarship, 2024
 
       - institution: University of Chinese Academy of Sciences
         location: Beijing, China
-        url: https://www.ucas.ac.cn/
         area: Astronomy and Physics
-        studyType: Bachelor
-        start_date: 2017-09
-        end_date: 2021-06
+        degree: Bachelor
+        start_date: "2017-09"
+        end_date: "2021-06"
         highlights:
           - Outstanding Graduate of Beijing, 2021
           - National Scholarship
@@ -80,132 +62,70 @@ cv:
       - company: University of Chinese Academy of Sciences
         position: Teaching Assistant, Introduction to Modern Astrophysics
         location: Beijing, China
-        start_date: 2025-02
-        end_date: 2025-06
+        start_date: "2025-02"
+        end_date: "2025-06"
         summary: >
-          Teaching assistant for the undergraduate and graduate course
-          Introduction to Modern Astrophysics, coordinated by Prof. Youjun Lu
-          and collaborators.
+          Teaching assistant for Introduction to Modern Astrophysics,
+          coordinated by Prof. Youjun Lu and collaborators.
 
       - company: University of Chinese Academy of Sciences
         position: Teaching Assistant, Advanced Astronomy
         location: Beijing, China
-        start_date: 2021-09
-        end_date: 2022-01
+        start_date: "2021-09"
+        end_date: "2022-01"
         summary: >
           Teaching assistant for Advanced Astronomy, coordinated by
           Prof. Jifeng Liu and collaborators.
 
     Research Interests:
       - name: Gravitational-Wave Astrophysics
-        icon: fa-solid fa-wave-square
-        keywords: >
-          Gravitational waves, multi-messenger astronomy, compact binary mergers,
-          gravitational-wave source populations
+        summary: >
+          Gravitational waves, multi-messenger astronomy, compact binary
+          mergers, and gravitational-wave source populations.
 
       - name: Binary Neutron-Star Mergers
-        icon: fa-solid fa-star
-        keywords: >
-          Neutron-star merger remnants, differential rotation, remnant stability,
-          numerical relativity, electromagnetic counterparts
+        summary: >
+          Neutron-star merger remnants, differential rotation, remnant
+          stability, and numerical relativity.
 
       - name: Gravitational Lensing
-        icon: fa-solid fa-circle-nodes
-        keywords: >
+        summary: >
           Strongly lensed gravitational waves, host-galaxy identification,
-          cosmological inference, cluster lensing
+          and cosmological inference.
 
       - name: High-Energy Transients
-        icon: fa-solid fa-bolt
-        keywords: >
-          Short gamma-ray bursts, extended emission, merger-novae,
-          tidal disruption events
-
-  
-
-    Invited and Contributed Talks:
-      - name: The First Altay Time-Domain Astronomy Workshop
-        start_date: 2023-08
-        location: Altay, China
         summary: >
-          Invited talk: On the Lensed TDE and BNS Merger-Nova Luminosity Function.
-
-      - name: Annual Meeting of the Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society
-        start_date: 2023-05
-        location: Chongqing, China
-        summary: >
-          Best Student Talk: Constraining the Origin of Stellar Binary Black
-          Hole Mergers by Detections of Their Lensed Host Galaxies and
-          Gravitational-Wave Signals.
-
-      - name: Gravitational Wave Astrophysics Conference 2021
-        start_date: 2021-06
-        location: Hefei, China
+          Short gamma-ray bursts, merger-novae, extended emission,
+          and tidal disruption events.
 
     Awards:
-      - title: Outstanding Graduate of Beijing
-        date: 2025
-        awarder: Beijing Municipal Commission of Education
+      - name: Outstanding Graduate of Beijing
+        date: "2025"
+        summary: Beijing Municipal Commission of Education
 
-      - title: Zhuliyuehua Scholarship
-        date: 2024
-        awarder: University of Chinese Academy of Sciences
+      - name: Zhuliyuehua Scholarship
+        date: "2024"
+        summary: University of Chinese Academy of Sciences
 
-      - title: National Scholarship
-        date: 2023
-        awarder: Ministry of Education of the People's Republic of China
+      - name: National Scholarship
+        date: "2023"
+        summary: Ministry of Education of the People's Republic of China
 
-      - title: Excellent Communist Youth League Member
-        date: 2022
-        awarder: Committee of the Communist Youth League, Chinese Academy of Sciences
+      - name: Excellent Communist Youth League Member
+        date: "2022"
+        summary: Chinese Academy of Sciences
 
-      - title: Outstanding Graduate of Beijing
-        date: 2021
-        awarder: Beijing Municipal Commission of Education
+      - name: Outstanding Graduate of Beijing
+        date: "2021"
+        summary: Beijing Municipal Commission of Education
 
-      - title: National Scholarship
-        date: 2019
-        awarder: Ministry of Education of the People's Republic of China
+      - name: National Scholarship
+        date: "2019"
+        summary: Ministry of Education of the People's Republic of China
 
-      - title: First Prize Scholarship
-        date: 2017–2021
-        awarder: University of Chinese Academy of Sciences
-
-    Academic and Student Service:
-      - company: National Astronomical Observatories, Chinese Academy of Sciences
-        position: President, Students' Union
-        location: Beijing, China
-        start_date: 2023-03
-        end_date: 2024-11
-
-      - company: School of Astronomy and Space Science, University of Chinese Academy of Sciences
-        position: President, Students' Union
-        location: Beijing, China
-        start_date: 2021-09
-        end_date: 2022-06
-
-      - company: University of Chinese Academy of Sciences
-        position: Class Representative
-        location: Beijing, China
-        start_date: 2017-09
-        end_date: 2021-06
-
-      - company: Chuanhun Wushu Association, University of Chinese Academy of Sciences
-        position: Head of Training
-        location: Beijing, China
-        start_date: 2018-09
-        end_date: 2019-06
-
-      - company: Table Tennis Association, University of Chinese Academy of Sciences
-        position: Head
-        location: Beijing, China
-        start_date: 2018-09
-        end_date: 2020-06
-
-    
     Languages:
-      - name: Chinese
-        summary: Native speaker
+      - label: Chinese
+        details: Native speaker
 
-      - name: English
-        summary: Professional working proficiency
+      - label: English
+        details: Professional working proficiency
