@@ -4,11 +4,9 @@ title: Research
 permalink: /research/
 description: Current research interests and projects.
 nav: true
-nav_order: 2
+nav_order: 3
 horizontal: false
 ---
-
-<!-- pages/projects.md -->
 
 <div class="projects">
 
