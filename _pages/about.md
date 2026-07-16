@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   National Astronomical Observatories, Chinese Academy of Sciences<br>
