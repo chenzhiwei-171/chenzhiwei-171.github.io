@@ -2,7 +2,7 @@
 layout: page
 title: 科研
 permalink: /zh/research/
-description: 当前研究方向与课题。
+description: 目前正在开展的研究课题主要为以下三部分：
 nav: false
 ---
 
