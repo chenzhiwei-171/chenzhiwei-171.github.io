@@ -26,10 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a visiting postdoctoral researcher at the Institute for Theoretical Physics (ITP), Goethe University Frankfurt, working with Prof. Luciano Rezzolla. 
 
-I am also affiliated with the National Astronomical Observatories, Chinese Academy of Sciences (NAOC), working with Prof.Jifeng Liu and Prof. Youjun Lu. 
+{% include site/language_switcher.liquid %}
 
-My research focuses on gravitational wave multi-messenger astrophysics, including the formation and evolution of compact-object populations, gravitational lensing of gravitational waves, and electromagnetic counterparts of compact binary merger. I have already published 11 first author papers in these fields. 
+I am currently a visiting postdoctoral researcher at the Institute for Theoretical Physics (ITP), Goethe University Frankfurt, working with Prof. Luciano Rezzolla.
 
-My wechat number is czw987587834. Please feel free to contact me. 
+I am also affiliated with the National Astronomical Observatories, Chinese Academy of Sciences (NAOC), working with Prof.Jifeng Liu and Prof. Youjun Lu.
+
+My research focuses on gravitational wave multi-messenger astrophysics, including the formation and evolution of compact-object populations, gravitational lensing of gravitational waves, and electromagnetic counterparts of compact binary merger. I have already published 11 first author papers in these fields.
+
+My wechat number is czw987587834. Please feel free to contact me.

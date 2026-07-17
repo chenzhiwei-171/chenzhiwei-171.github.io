@@ -1,0 +1,39 @@
+{% assign language_path = '' %}
+
+{% case page.permalink %}
+  {% when '/' %}
+    {% assign language_path = '/zh/' %}
+  {% when '/zh/' %}
+    {% assign language_path = '/' %}
+  {% when '/research/' %}
+    {% assign language_path = '/zh/research/' %}
+  {% when '/zh/research/' %}
+    {% assign language_path = '/research/' %}
+  {% when '/publications/' %}
+    {% assign language_path = '/zh/publications/' %}
+  {% when '/zh/publications/' %}
+    {% assign language_path = '/publications/' %}
+{% endcase %}
+
+{% assign language_prefix = page.permalink | slice: 0, 4 %}
+{% assign is_chinese_page = false %}
+{% if language_prefix == '/zh/' %}
+  {% assign is_chinese_page = true %}
+{% endif %}
+
+{% if language_path != '' %}
+  <nav
+    data-language-switcher
+    aria-label="{% if is_chinese_page %}语言选择{% else %}Language selector{% endif %}"
+    style="margin-block-end: 1rem; text-align: right"
+  >
+    <a
+      href="{{ language_path | relative_url }}"
+      hreflang="{% if is_chinese_page %}en{% else %}zh-CN{% endif %}"
+      lang="{% if is_chinese_page %}en{% else %}zh-CN{% endif %}"
+      aria-label="{% if is_chinese_page %}切换到英文版{% else %}Switch to Chinese{% endif %}"
+    >
+      {% if is_chinese_page %}English{% else %}中文{% endif %}
+    </a>
+  </nav>
+{% endif %}
