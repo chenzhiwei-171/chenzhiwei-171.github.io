@@ -8,8 +8,14 @@ nav: false
 
 临时入口：[English version]({{ '/research/' | relative_url }})
 
-我的研究聚焦于引力波多信使天体物理，主要方向包括：
+<div class="projects">
 
-- 致密天体族群的形成与演化
-- 引力波的引力透镜效应
-- 致密双星并合的电磁对应体
+{% assign sorted_projects = site.zh_projects | sort: "importance" %}
+
+<div class="row row-cols-1 row-cols-md-3">
+  {% for project in sorted_projects %}
+    {% include projects.liquid %}
+  {% endfor %}
+</div>
+
+</div>
