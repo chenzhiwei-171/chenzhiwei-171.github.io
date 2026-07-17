@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-临时入口：[English version]({{ '/' | relative_url }})
+{% include site/language_switcher.liquid %}
 
 我目前是法兰克福歌德大学理论物理研究所的访问博士后研究员，与 Luciano Rezzolla 教授合作开展研究。
 

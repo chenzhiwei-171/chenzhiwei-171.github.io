@@ -6,7 +6,7 @@ description: 当前研究方向与课题。
 nav: false
 ---
 
-临时入口：[English version]({{ '/research/' | relative_url }})
+{% include site/language_switcher.liquid %}
 
 <div class="projects">
 

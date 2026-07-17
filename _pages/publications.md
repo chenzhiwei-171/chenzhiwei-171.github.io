@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include site/language_switcher.liquid %}
+
 <style>
 .publications .author em {
   font-style: normal;

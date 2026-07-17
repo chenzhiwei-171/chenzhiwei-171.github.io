@@ -6,6 +6,14 @@ const root = process.cwd();
 const read = (relPath) => fs.readFileSync(path.join(root, relPath), "utf8");
 const exists = (relPath) => fs.existsSync(path.join(root, relPath));
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const listFiles = (relPath) => {
+  if (!exists(relPath)) return [];
+
+  return fs.readdirSync(path.join(root, relPath), { withFileTypes: true }).flatMap((entry) => {
+    const entryPath = `${relPath}/${entry.name}`;
+    return entry.isDirectory() ? listFiles(entryPath) : [entryPath];
+  });
+};
 
 const failures = [];
 
@@ -61,7 +69,14 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
-for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
+const allowedLocalIncludes = new Set(["_includes/site/language_switcher.liquid"]);
+for (const localInclude of listFiles("_includes")) {
+  if (!allowedLocalIncludes.has(localInclude)) {
+    failures.push(`Starter local include \`${localInclude}\` is not allowlisted; shared includes belong to the owning gem.`);
+  }
+}
+
+for (const forbiddenPath of ["_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
   if (exists(forbiddenPath)) {
     failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
   }

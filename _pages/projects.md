@@ -8,6 +8,8 @@ nav_order: 3
 horizontal: false
 ---
 
+{% include site/language_switcher.liquid %}
+
 <div class="projects">
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
