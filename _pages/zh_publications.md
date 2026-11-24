@@ -17,6 +17,8 @@ nav: false
 
 {% include bib_search.liquid %}
 
+<p><sup>*</sup> 表示通讯作者。</p>
+
 <div class="publications">
 
 {% bibliography %}
